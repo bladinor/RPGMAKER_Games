@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Javier_D","characterIndex":0,"characterName":"Javier_D","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Javier_D","traits":[{"code":41,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Javier Berceruelo","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_5","characterIndex":0,"characterName":"People1","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"People1","traits":[{"code":41,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"ÉL","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor2_8","characterIndex":1,"characterName":"People1","classId":6,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"People1","traits":[{"code":41,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Élla","nickname":"","note":"","profile":""}
+]
